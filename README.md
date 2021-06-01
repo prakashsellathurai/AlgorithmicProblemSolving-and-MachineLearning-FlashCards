@@ -1,5 +1,3 @@
-### Algorithmic ProblemSolving and MachineLearning FlashCards
-
 <!-- toc -->
 
 ## Description:
