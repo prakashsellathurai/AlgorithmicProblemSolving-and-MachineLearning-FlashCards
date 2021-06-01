@@ -1,4 +1,4 @@
-#### Algorithmic ProblemSolving and MachineLearning FlashCards
+### Algorithmic ProblemSolving and MachineLearning FlashCards
 
 <!-- toc -->
 
